@@ -7,3 +7,5 @@ git commit -m "message" - commits new file to project
 git push - pushes this commit to the website
 
 commands only work when you are in the directory of your github repository
+
+if you get caught in a vim editor hit esc, colon, wq then enter to save and go back to bash
