@@ -1,0 +1,7 @@
+git commands
+
+git clone "URL" - brings down a clone of the project from GitHub
+git status - checks status of project
+git add "Filename" - adds new file to project
+git commit - commits new file to project
+git push - pushes this commit to the website
